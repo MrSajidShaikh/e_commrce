@@ -118,7 +118,7 @@ class RegistrationScreen extends StatelessWidget {
                       shape: StadiumBorder(),
                       backgroundColor: Color(0xff23AA49),
                     ),
-                    child: Text("Continue")),
+                    child: Text("Continue",style: TextStyle(color: Colors.white),)),
               ),
               SizedBox(
                 height: 16,
