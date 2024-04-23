@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_catalog/utils/routes.dart';
-
 import 'AddToCart.dart';
 
 class CarrotDetailScreen extends StatefulWidget {
