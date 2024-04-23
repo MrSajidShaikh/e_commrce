@@ -109,6 +109,11 @@ A new Flutter project.
 <a href="https://github.com/mrsajidshaikh/e_commrce/blob/master/lib/screens/CartScreen.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
 
-<h3 align="center"> 7. CheckOutScreen </h3>
+<h3 align="center"> 7. App </h3>
+
+###
+
+<div align="center">
+<video src = "https://github.com/mrsajidshaikh/e_commrce/assets/149478269/c0676064-9380-4f07-a00d-621583fa70d2">
 
 ###
