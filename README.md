@@ -11,7 +11,7 @@ A new Flutter project.
 <h1 align="left"></h1>
 
 ###
-<div align="center">
+
 <img src = "https://github.com/mrsajidshaikh/e_commrce/assets/149478269/58d66fdb-0db3-4a24-bfef-02e1bdc704a2" width = 22% height = 35%>
 
 ###
