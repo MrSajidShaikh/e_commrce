@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
- <h3 align="center" 1. SplashScreen </h3>
+ <h3 align="center"> 1. SplashScreen </h3>
 
 ###
 
@@ -19,7 +19,7 @@ A new Flutter project.
 <a href="https://github.com/mrsajidshaikh/e_commrce/blob/master/lib/screens/SplashScreen.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
 
-<h3 align="center" 2. WelcomePage </h3>
+<h3 align="center"> 2. WelcomePage </h3>
 
 ###
 
@@ -34,7 +34,7 @@ A new Flutter project.
 <a href="https://github.com/mrsajidshaikh/e_commrce/blob/master/lib/screens/WelcomePage.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
 
-<h3 align="center" 3. LogInScreen </h3>
+<h3 align="center"> 3. LogInScreen </h3>
 
 ###
 
